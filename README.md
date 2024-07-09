@@ -1,3 +1,7 @@
+# Notes
+
+Project carried out in just 12 hours of development, does not include offline, due to the short deadline.
+
 # Easy Location App
 
 Easy Location App is an app for platforms (Android or iOS) to load the current location of the user in the map with and without the device's location feature.
